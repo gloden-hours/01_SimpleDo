@@ -7,3 +7,4 @@
 #### 💬 update log <br/>
 24/02/01　　프로젝트 생성 <br/>
 24/02/02　　html,css,js 적용 <br/>
+24/02/05　　MySQL 연결
